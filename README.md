@@ -4,4 +4,4 @@
 This repository is a collection of my custom charts for the Bee Gees: Rock Band project.
 Each song will have full-band and full difficulties, available in RB2, RB3, and RB4. 
 
-<h0.5>The Bee Gees Sing and Play 14 Barry Gibb Songs<h0.5>
+<h1>The Bee Gees Sing and Play 14 Barry Gibb Songs<h1>
