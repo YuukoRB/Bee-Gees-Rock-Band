@@ -7,3 +7,4 @@ Each song will have full-band and full difficulties, available in RB2, RB3, and 
 ## The Bee Gees Sing and Play 14 Barry Gibb Songs: (0/14)
 ## Spicks and Specks: (0/12)
 ## Bee Gees' 1st: (0/14)
+## Horizontal: (0/12)
