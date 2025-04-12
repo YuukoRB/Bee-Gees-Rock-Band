@@ -20,7 +20,7 @@ Each song will have full-band and full difficulties and will be tailored for use
 ## Children Of The World (0/10)
 ## Here At Last... Bee Gees ...Live (0/18)
 ## Spirits Having Flown (0/10)
-* $${\color{blue}"Tragedy"}$$
+* <code style="color : cyan">"Tragedy"</code>
 ## Living Eyes (0/10)
 * "Living Eyes" (in progress)
 ## E.S.P. (0/11)
